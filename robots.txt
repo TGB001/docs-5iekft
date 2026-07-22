@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-80rf1x.mon-saas.com/sitemap.xml
